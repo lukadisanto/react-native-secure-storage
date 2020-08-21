@@ -9,8 +9,8 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/oyyq99999/react-native-secure-storage.git",
-        "baseUrl": "https://github.com/oyyq99999/react-native-secure-storage"
+        "url": "git+https://github.com/lukadisanto/react-native-secure-storage.git",
+        "baseUrl": "https://github.com/lukadisanto/react-native-secure-storage"
     },
     "keywords": [
         "react-native",
