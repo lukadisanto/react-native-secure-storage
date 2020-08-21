@@ -1,5 +1,5 @@
 rootProject.name = 'example'
-include ':react-native-secure-storage'
-project(':react-native-secure-storage').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-secure-storage/android')
+include ':react-native-secure-storage-fork'
+project(':react-native-secure-storage-fork').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-secure-storage-fork/android')
 
 include ':app'
